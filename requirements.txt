@@ -1,0 +1,11 @@
+Flask
+Flask-RESTful
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-JWT-Extended
+marshmallow
+marshmallow-sqlalchemy
+flasgger
+flask-marshmallow
+pytest
+Werkzeug
